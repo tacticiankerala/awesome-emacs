@@ -28,3 +28,7 @@ Curated list of awesome emacs packages
 22. [web-mode](https://github.com/fxbois/web-mode)
 23. [yaml-mode](http://www.emacswiki.org/emacs/YamlMode)
 23. [yasnippet](https://github.com/capitaomorte/yasnippet)
+
+
+#Themes
+1.[monokai](https://github.com/oneKelvinSmith/monokai-emacs)
