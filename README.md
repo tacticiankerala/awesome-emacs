@@ -6,6 +6,7 @@ Curated list of awesome emacs packages
 1. [cask](https://github.com/cask/cask)
 2. [dash](https://github.com/magnars/dash.el)
 3. [drag-stuff](https://github.com/rejeep/drag-stuff.el)
+4. [enh-ruby-mode](https://github.com/jacott/Enhanced-Ruby-Mode)
 4. [exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
 5. [expand-region](https://github.com/magnars/expand-region.el)
 6. [f](https://github.com/rejeep/f.el)
