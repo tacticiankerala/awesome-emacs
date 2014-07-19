@@ -23,6 +23,8 @@ Curated list of awesome emacs packages
 18. [s](https://github.com/magnars/s.el)
 19. [smartparens](https://github.com/Fuco1/smartparens)
 20. [smex](https://github.com/nonsequitur/smex)
+21. [uniquify](http://www.emacswiki.org/emacs/uniquify)
 21. [use-package](https://github.com/jwiegley/use-package)
 22. [web-mode](https://github.com/fxbois/web-mode)
+23. [yaml-mode](http://www.emacswiki.org/emacs/YamlMode)
 23. [yasnippet](https://github.com/capitaomorte/yasnippet)
