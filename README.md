@@ -21,7 +21,7 @@ Curated list of awesome emacs packages
 11. [ido-vertical-mode](https://github.com/gempesaw/ido-vertical-mode.el)
 12. [js-comint](http://js-comint-el.sourceforge.net/)
 13. [js2-mode](https://github.com/mooz/js2-mode)
-14. [json-mode](https://github.com/joshwnj/json-mode)]
+14. [json-mode](https://github.com/joshwnj/json-mode)
 11. [magit](https://github.com/magit/magit)
 12. [multiple-cursors](https://github.com/magnars/multiple-cursors.el)
 13. [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
