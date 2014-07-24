@@ -4,8 +4,11 @@ awesome-emacs
 Curated list of awesome emacs packages
 
 1. [ac-js2](https://github.com/ScottyB/ac-js2)
+2. [ace-jump-mode](https://github.com/winterTTr/ace-jump-mode)
+2. [auto-complete](http://www.emacswiki.org/emacs/AutoComplete)
 2. [cask](https://github.com/cask/cask)
 3. [coffee-mode](https://github.com/defunkt/coffee-mode)
+4. [company-mode](http://company-mode.github.io/)
 2. [dash](https://github.com/magnars/dash.el)
 3. [drag-stuff](https://github.com/rejeep/drag-stuff.el)
 4. [enh-ruby-mode](https://github.com/jacott/Enhanced-Ruby-Mode)
@@ -14,6 +17,7 @@ Curated list of awesome emacs packages
 6. [f](https://github.com/rejeep/f.el)
 7. [flycheck](https://github.com/flycheck/flycheck)
 8. [flycheck-cask](https://github.com/flycheck/flycheck-cask)
+9. [key-chord](http://www.emacswiki.org/emacs/KeyChord)
 9. [grizzle](https://github.com/d11wtq/grizzl)
 10. [highlight-indentation-mode](https://github.com/antonj/Highlight-Indentation-for-Emacs)
 9. [htmlize](https://github.com/emacsmirror/htmlize)
