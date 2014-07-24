@@ -22,6 +22,7 @@ Curated list of awesome emacs packages
 13. [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
 14. [pallet](https://github.com/rdallasgray/pallet)
 15. [pop-win](https://github.com/m2ym/popwin-el)
+16. [powerline](http://www.emacswiki.org/emacs/powerline.el)
 16. [prodigy](https://github.com/rejeep/prodigy.el)
 17. [projectile](https://github.com/bbatsov/projectile)
 18. [projectile-rails](https://github.com/asok/projectile-rails)
