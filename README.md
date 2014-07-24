@@ -13,6 +13,7 @@ Curated list of awesome emacs packages
 7. [flycheck](https://github.com/flycheck/flycheck)
 8. [flycheck-cask](https://github.com/flycheck/flycheck-cask)
 9. [grizzle](https://github.com/d11wtq/grizzl)
+10. [highlight-indentation-mode](https://github.com/antonj/Highlight-Indentation-for-Emacs)
 9. [htmlize](https://github.com/emacsmirror/htmlize)
 10. [idle-highlight-mode](https://github.com/nonsequitur/idle-highlight-mode/blob/master/idle-highlight-mode.el)
 11. [magit](https://github.com/magit/magit)
