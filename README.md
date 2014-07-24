@@ -3,7 +3,9 @@ awesome-emacs
 
 Curated list of awesome emacs packages
 
-1. [cask](https://github.com/cask/cask)
+1. [ac-js2](https://github.com/ScottyB/ac-js2)
+2. [cask](https://github.com/cask/cask)
+3. [coffee-mode](https://github.com/defunkt/coffee-mode)
 2. [dash](https://github.com/magnars/dash.el)
 3. [drag-stuff](https://github.com/rejeep/drag-stuff.el)
 4. [enh-ruby-mode](https://github.com/jacott/Enhanced-Ruby-Mode)
@@ -17,6 +19,9 @@ Curated list of awesome emacs packages
 9. [htmlize](https://github.com/emacsmirror/htmlize)
 10. [idle-highlight-mode](https://github.com/nonsequitur/idle-highlight-mode/blob/master/idle-highlight-mode.el)
 11. [ido-vertical-mode](https://github.com/gempesaw/ido-vertical-mode.el)
+12. [js-comint](http://js-comint-el.sourceforge.net/)
+13. [js2-mode](https://github.com/mooz/js2-mode)
+14. [json-mode](https://github.com/joshwnj/json-mode)]
 11. [magit](https://github.com/magit/magit)
 12. [multiple-cursors](https://github.com/magnars/multiple-cursors.el)
 13. [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
@@ -26,6 +31,7 @@ Curated list of awesome emacs packages
 16. [prodigy](https://github.com/rejeep/prodigy.el)
 17. [projectile](https://github.com/bbatsov/projectile)
 18. [projectile-rails](https://github.com/asok/projectile-rails)
+19. [rainbow-delimiters](https://github.com/jlr/rainbow-delimiters)
 18. [s](https://github.com/magnars/s.el)
 19. [smartparens](https://github.com/Fuco1/smartparens)
 20. [smex](https://github.com/nonsequitur/smex)
