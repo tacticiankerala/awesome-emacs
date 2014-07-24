@@ -16,6 +16,7 @@ Curated list of awesome emacs packages
 10. [highlight-indentation-mode](https://github.com/antonj/Highlight-Indentation-for-Emacs)
 9. [htmlize](https://github.com/emacsmirror/htmlize)
 10. [idle-highlight-mode](https://github.com/nonsequitur/idle-highlight-mode/blob/master/idle-highlight-mode.el)
+11. [ido-vertical-mode](https://github.com/gempesaw/ido-vertical-mode.el)
 11. [magit](https://github.com/magit/magit)
 12. [multiple-cursors](https://github.com/magnars/multiple-cursors.el)
 13. [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
