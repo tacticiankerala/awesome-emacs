@@ -48,4 +48,6 @@ Curated list of awesome emacs packages
 
 
 #Themes
-1.[monokai](https://github.com/oneKelvinSmith/monokai-emacs)
+1. [monokai](https://github.com/oneKelvinSmith/monokai-emacs)
+2. [sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow)
+
