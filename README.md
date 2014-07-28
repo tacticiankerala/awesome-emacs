@@ -45,6 +45,7 @@ Curated list of awesome emacs packages
 21. [uniquify](http://www.emacswiki.org/emacs/uniquify)
 21. [use-package](https://github.com/jwiegley/use-package)
 22. [web-mode](https://github.com/fxbois/web-mode)
+23. [whitespace](http://www.emacswiki.org/emacs/WhiteSpace)
 23. [yaml-mode](http://www.emacswiki.org/emacs/YamlMode)
 23. [yasnippet](https://github.com/capitaomorte/yasnippet)
 
