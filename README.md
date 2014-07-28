@@ -38,6 +38,7 @@ Curated list of awesome emacs packages
 16. [prodigy](https://github.com/rejeep/prodigy.el)
 17. [projectile](https://github.com/bbatsov/projectile)
 18. [projectile-rails](https://github.com/asok/projectile-rails)
+19. [quickrun](https://github.com/syohex/emacs-quickrun)
 19. [rainbow-delimiters](https://github.com/jlr/rainbow-delimiters)
 18. [s](https://github.com/magnars/s.el)
 19. [smartparens](https://github.com/Fuco1/smartparens)
