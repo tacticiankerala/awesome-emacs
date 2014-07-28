@@ -30,6 +30,8 @@ Curated list of awesome emacs packages
 11. [magit](https://github.com/magit/magit)
 12. [multiple-cursors](https://github.com/magnars/multiple-cursors.el)
 13. [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
+14. [org-mode](https://github.com/jwiegley/org-mode)
+15. [org-trello](https://github.com/org-trello/org-trello)
 14. [pallet](https://github.com/rdallasgray/pallet)
 15. [pop-win](https://github.com/m2ym/popwin-el)
 16. [powerline](http://www.emacswiki.org/emacs/powerline.el)
